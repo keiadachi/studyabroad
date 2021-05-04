@@ -20,11 +20,11 @@
 留学検討段階／相談希望時にアクセス
 
 ## 設計書
-###ワイヤーフレーム(お客様)【 https://1drv.ms/x/s!Ah_oGfijPWkLgRRFEiYJ5rb2UsIc?e=trZkys 】</br>
-###ワイヤーフレーム(管理者)【 https://1drv.ms/x/s!Ah_oGfijPWkLgRHCiEDg9gaT_9EL?e=ppqNzi 】</br>
-###ER図【 https://app.diagrams.net/#Wb693da3f819e81f%2FB693DA3F819E81F!150 】</br>
-###テーブル定義書【 https://1drv.ms/x/s!Ah_oGfijPWkLgReObmuWUZoF5Inz?e=HlEHBy 】</br>
-###アプリケーション詳細設計【 https://1drv.ms/x/s!Ah_oGfijPWkLgRkp_BX4ZS-Aw2Eq?e=LoshUQ 】
+- ワイヤーフレーム(お客様)【 https://1drv.ms/x/s!Ah_oGfijPWkLgRRFEiYJ5rb2UsIc?e=trZkys 】</br>
+- ワイヤーフレーム(管理者)【 https://1drv.ms/x/s!Ah_oGfijPWkLgRHCiEDg9gaT_9EL?e=ppqNzi 】</br>
+- ER図【 https://app.diagrams.net/#Wb693da3f819e81f%2FB693DA3F819E81F!150 】</br>
+- テーブル定義書【 https://1drv.ms/x/s!Ah_oGfijPWkLgReObmuWUZoF5Inz?e=HlEHBy 】</br>
+- アプリケーション詳細設計【 https://1drv.ms/x/s!Ah_oGfijPWkLgRkp_BX4ZS-Aw2Eq?e=LoshUQ 】
 
 ## チャレンジ要素一覧
 https://1drv.ms/x/s!Ah_oGfijPWkLgQdXeBpva72qVAr8?e=TfrF2C
