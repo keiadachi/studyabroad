@@ -20,6 +20,7 @@
 留学検討段階／相談希望時にアクセス
 
 ## 設計書
+- WBS【 https://1drv.ms/x/s!Ah_oGfijPWkLgRvccyziRj2Fm7Su?e=ad7Uhv 】</br>
 - ワイヤーフレーム(お客様)【 https://1drv.ms/x/s!Ah_oGfijPWkLgRRFEiYJ5rb2UsIc?e=trZkys 】</br>
 - ワイヤーフレーム(管理者)【 https://1drv.ms/x/s!Ah_oGfijPWkLgRHCiEDg9gaT_9EL?e=ppqNzi 】</br>
 - ER図【 https://app.diagrams.net/#Wb693da3f819e81f%2FB693DA3F819E81F!150 】</br>
